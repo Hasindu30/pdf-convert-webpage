@@ -1,0 +1,298 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: none;
+    box-sizing: border-box;
+    text-transform: capitalize;
+    text-decoration: none;
+
+    
+    
+    
+}
+body{
+        background-color: #faf6f6;
+}
+.header{
+    background-color: #ffffff;
+    justify-content:end;
+    left: 0;
+    right: 0;
+    width:100%;
+    height: 40px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+
+}
+.header #logo{
+    width: 80px;
+    margin-left: 20px;
+    left: 10px;
+    top: 8px;
+    position: absolute;
+}
+
+.cont a{
+    
+    color: white;
+    background-color: #2907F9;
+    padding: 5px 10px;
+    font-size:14px;
+    border-radius: 8px;
+    position: absolute;
+    left: 870px;
+    top:8px;
+    margin-right: 40px;
+    font-family:Arial, Helvetica, sans-serif;
+    
+    
+}
+.log a{
+    
+    color: white;
+    background-color: #2907F9;
+    padding: 5px 10px;
+    font-size:14px;
+    border-radius: 8px;
+    position: absolute;
+    left: 870px;
+    top:8px;
+    margin-right: 40px;
+    font-family:Arial, Helvetica, sans-serif;
+    
+    
+}
+.t1{
+    color: #434B94;
+    top: 3px;
+    position: absolute;
+    left: 350px;
+    font-size: 20px;
+    font-family: "Noto Sans Thai Looped";
+    font-weight: 900;
+}
+
+.cont a:hover{
+    background: transparent;
+    border: 2px solid #2907F9;
+    color: black;
+    transition: background-color 0.5s;
+    
+    
+}
+.log a{
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    position: absolute;
+    top: 8px;
+    left: 790px;
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: #2907F9;
+    border-radius: 8px;
+    margin-right: 40px;
+    padding: 5px 10px;
+       
+}
+.log a:hover{
+    background: transparent;
+    border: 2px solid #2907F9;
+    color: black;
+    position: absolute;
+    top: 8px;
+    left: 790px;
+    border-radius: 8px;
+    margin-right: 40px;
+    padding: 5px 10px;
+    font-family:Arial, Helvetica, sans-serif;
+    transition: background-color 0.5s;
+    
+    
+}
+.t3{
+    font-family: "Lalezar";
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.b4{
+    position: absolute;
+    margin-top: 130px;
+    margin-left: 50px;
+}
+.b4 p{
+    font-family: "mada";
+    color: black;
+    font-size: 15px;
+}
+.b5{
+    position: absolute;
+    margin-top: 128px;
+    margin-left: 600px;
+    
+    
+}
+.b5 p{
+    font-family: "mada";
+    color: black;
+    font-size: 15px;
+    
+    
+}
+.tik1{
+    margin-top: 128px;
+    margin-left: 575px;
+    position: absolute;
+    width: 1px;
+    height: 1px;
+}
+.tik1 #t1{
+    width: 20px;
+    height: 20px;
+}
+.tik2{
+    margin-top: 148px;
+    margin-left: 575px;
+    position: absolute;
+    width: 1px;
+    height: 1px;
+}
+.tik2 #t2{
+    width: 20px;
+    height: 20px;
+}
+.tik3{
+    margin-top: 168px;
+    margin-left: 575px;
+    position: absolute;
+    width: 1px;
+    height: 1px;
+}
+.tik3 #t3{
+    width: 20px;
+    height: 20px;
+}
+.i1{
+    margin-top: 280px ;
+    margin-left: 50px;
+    position: absolute;
+    
+}
+.i1 #i33{
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    margin-left: 70px;
+
+}
+.i1 p{
+    font-size: 14px;
+    font-family: "mada";
+    font-weight: 300;
+    margin-left: 20px;
+    margin-top:10px;
+    text-align: center;
+}
+.i1 .p2 {
+    margin-top: 50px;
+    margin-top: 60px;
+}
+.i1 .p2 p{
+    font-size: 15px;
+    font-family: "mada";
+    font-weight: 400;
+}
+
+.i2{
+    margin-top: 280px ;
+    margin-left: 50px;
+    position: absolute;
+    
+}
+.i2 #i22{
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    margin-left: 420px;
+
+}
+.i2 p{
+    font-size: 14px;
+    font-family: "mada";
+    font-weight: 300;
+    margin-left: 320px;
+    margin-top:10px;
+    text-align: center;
+}
+.i2 .p3 {
+    margin-top: 50px;
+    margin-top: 60px;
+}
+.i2 .p3 p{
+    font-size: 15px;
+    font-family: "mada";
+    font-weight: 400;
+}
+
+.i3{
+    margin-top: 280px ;
+    margin-left: 400px;
+    position: absolute;
+    
+}
+.i3 #i11{
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    margin-left: 420px;
+
+}
+.i3 p{
+    font-size: 14px;
+    font-family: "mada";
+    font-weight: 300;
+    margin-left: 320px;
+    margin-top:10px;
+    text-align: center;
+}
+.i3 .p4 {
+    margin-top: 50px;
+    margin-top: 60px;
+}
+.i3 .p4 p{
+    font-size: 15px;
+    font-family: "mada";
+    font-weight: 400;
+}
+#downloadLink {
+    display:none; /* Hide download link initially */
+    margin-top: 20px;
+    margin-left: 100px;
+  }
+  button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    position: absolute;
+    margin-left: 550px;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  input[type="file"] {
+    
+    padding: 10px 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    position: absolute;
+    margin-left: 230px;
+    position: absolute;
+
+  }

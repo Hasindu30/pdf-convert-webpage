@@ -1,0 +1,218 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: none;
+    box-sizing: border-box;
+    text-transform: capitalize;
+    text-decoration: none;
+
+    
+    
+    
+}
+body{
+        background-color: #ffffff;
+}
+.header{
+    background-color: #ffffff;
+    justify-content:end;
+    left: 0;
+    right: 0;
+    width:100%;
+    height: 40px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+
+}
+.header #logo{
+    width: 80px;
+    margin-left: 20px;
+    left: 10px;
+    top: 8px;
+    position: absolute;
+}
+
+.cont a{
+    
+    color: white;
+    background-color: #2907F9;
+    padding: 5px 10px;
+    font-size:14px;
+    border-radius: 8px;
+    position: absolute;
+    left: 870px;
+    top:8px;
+    margin-right: 40px;
+    font-family:Arial, Helvetica, sans-serif;
+    
+    
+}
+.log a{
+    
+    color: white;
+    background-color: #2907F9;
+    padding: 5px 10px;
+    font-size:14px;
+    border-radius: 8px;
+    position: absolute;
+    left: 870px;
+    top:8px;
+    margin-right: 40px;
+    font-family:Arial, Helvetica, sans-serif;
+    
+    
+}
+.t1{
+    color: #434B94;
+    top: 5px;
+    position: absolute;
+    left: 450px;
+    font-size: 22px;
+    font-family: "inter";
+    font-weight: 900;
+    
+}
+
+.cont a:hover{
+    background: transparent;
+    border: 2px solid #2907F9;
+    color: black;
+    transition: background-color 0.5s;
+    
+    
+}
+.log a{
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    position: absolute;
+    top: 8px;
+    left: 790px;
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: #2907F9;
+    border-radius: 8px;
+    margin-right: 40px;
+    padding: 5px 10px;
+       
+}
+.log a:hover{
+    background: transparent;
+    border: 2px solid #2907F9;
+    color: black;
+    position: absolute;
+    top: 8px;
+    left: 790px;
+    border-radius: 8px;
+    margin-right: 40px;
+    padding: 5px 10px;
+    font-family:Arial, Helvetica, sans-serif;
+    transition: background-color 0.5s;
+    
+    
+}
+.b1 a{
+   font-family: "inter";
+   font-size: 18px;
+   font-weight: 600;
+   color: rgb(0, 0, 0);
+   border-radius: 20px;
+   background-color: #FAEFEF;
+   padding: 10px 70px;
+   margin-left: 260px;
+   position: absolute;
+   margin-top: 60px;
+   outline: 0.4px solid rgb(63, 62, 62);
+
+}
+.b1 a:hover{
+    outline: 0.4px solid rgb(255, 0, 0);
+    color: rgb(91, 89, 89);
+    background-color: rgb(215, 212, 212);
+    transition: background-color 0.5s;
+}
+.b1 #google{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    margin-top: 65px;
+    margin-left: 270px;
+}
+
+
+
+.b2 a{
+    font-family: "inter";
+    font-size: 18px;
+    font-weight: 600;
+    color: rgb(255, 255, 255);
+    border-radius: 20px;
+    background-color: #4160CF;
+    padding: 10px 60px;
+    margin-left: 485px;
+    position: absolute;
+    margin-top: 60px;
+ 
+ }
+ .b2 #fb{
+     width: 30px;
+     height: 30px;
+     position: absolute;
+     margin-top: 65px;
+     margin-left: 490px;
+ }
+ .b2 a:hover{
+    background-color: #8292c7;
+    transition: background-color 0.5s;
+ }
+ .line{
+    border-top: 0.4px solid rgb(221, 218, 218);
+    margin-top: 120px;
+    width: 425px;
+    margin-left: 264px;
+ }
+ input[type="text"]{
+    width: 420px;
+    padding: 10px;
+    border: 1px solid rgb(193, 192, 192);
+    border-radius: 5px;
+    font-family: "Noto Sans HK";
+    position: absolute;
+    margin-top: 30px;
+    margin-left: 264px;
+ }
+ input[type="password"]{
+    width: 420px;
+    padding: 10px;
+    border: 1px solid rgb(193, 192, 192);
+    border-radius: 5px;
+    font-family: "Noto Sans HK";
+    position: absolute;
+    margin-top: 90px;
+    margin-left: 264px;
+ }
+ .b3 a{
+    
+    border-radius: 20px;
+    background-color: red;
+    padding: 10px 185px;
+    font-family: "Noto Sans HK";
+    font-weight: 1000;
+    font-size: 20px;
+    position: absolute;
+    margin-left: 260px;
+    margin-top: 150px;
+    color: white;
+    border-radius: 30px;
+
+ }
+ .b3 a:hover{
+    background-color: rgb(224, 102, 102);
+    transition: background-color 0.5s;
+ }
+ .f a{
+    font-size: 12px;
+    color: #4160CF;
+    position: absolute;
+    margin-top: 210px;
+    margin-left: 430px;
+ }
+ 
+
